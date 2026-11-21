@@ -1,0 +1,40 @@
+name: 버그 신고 (Bug report)
+description: 잘못 동작하는 것을 알려 주세요 (Something does not work as it should)
+title: "[버그] "
+labels: ["bug"]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: DaBoDa 버전 (Version)
+      description: 창 제목의 "Ver 0.1.8" 또는 도움말 → 정보 (shown in the window title or Help → About)
+      placeholder: "0.1.8"
+    validations:
+      required: true
+  - type: dropdown
+    id: where
+    attributes:
+      label: 어디에서 (Where)
+      options:
+        - Windows 설치판 (installer)
+        - Windows 포터블 (portable)
+        - Android 폰 (phone)
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: 무슨 일이 있었나요 (What happened)
+      description: 무엇을 했고, 무엇이 나왔고, 무엇을 기대했는지 적어 주세요. 화면 캡처를 끌어다 놓으면 붙습니다 (What you did, what you saw, what you expected. Drag a screenshot here to attach it)
+    validations:
+      required: true
+  - type: input
+    id: file
+    attributes:
+      label: 파일 종류 (File type)
+      description: 특정 파일에서만 그렇다면 종류를 적어 주세요. 예 — JPG, PDF, DWG, STEP (If it happens only with some files)
+  - type: markdown
+    attributes:
+      value: |
+        개인 정보나 회사 자료가 든 파일·화면은 올리지 마세요. 이 저장소는 누구나 볼 수 있습니다.
+        Please do not attach files or screenshots with personal or company information. This repository is public.
