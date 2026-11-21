@@ -1,0 +1,37 @@
+이 묶음은 DaBoDa 의 소스코드가 아닙니다
+==========================================
+
+GitHub 는 배포본마다 "Source code (zip)", "Source code (tar.gz)" 라는 묶음을 자동으로 붙입니다.
+이 묶음에는 이 내려받기 저장소(DaBoDa-Rele)의 안내 글과 요청 양식만 들어 있습니다.
+DaBoDa 프로그램의 소스코드는 들어 있지 않습니다.
+
+프로그램을 받으려면
+  https://github.com/agizwon/DaBoDa-Rele/releases
+  에서 최신판의 DaBoDa_v…_setup.exe (설치판) 를 받아 실행하세요.
+
+  DaBoDa_v…_setup.exe        설치판(권장)
+  DaBoDa_v…_portable.zip     포터블판 - 설치 없이 풀어서 사용(USB 용)
+  DaBoDa_v…_setup.zip        설치판을 폴더째 묶은 것 - 인스톨러 실행이 막힌 PC 용
+  DaBoDa_v…_arm64-v8a_debug.apk   안드로이드 폰용
+
+이 묶음에 든 파일
+  README.md                  내려받기 저장소 첫 화면의 안내 글
+  NOT_SOURCE_CODE.txt        이 파일
+  .github/ISSUE_TEMPLATE/    버그 신고·개선 요청 양식
+
+
+This archive is NOT the DaBoDa source code
+==========================================
+
+GitHub automatically attaches "Source code (zip)" and "Source code (tar.gz)" to every release.
+They contain only the notes and request forms of this download repository (DaBoDa-Rele).
+The source code of the DaBoDa program is not included.
+
+To get the program, open
+  https://github.com/agizwon/DaBoDa-Rele/releases
+  and download DaBoDa_v…_setup.exe (installer) from the latest release.
+
+  DaBoDa_v…_setup.exe        installer (recommended)
+  DaBoDa_v…_portable.zip     portable version - unzip and run, no install (for a USB drive)
+  DaBoDa_v…_setup.zip        the installed files as a folder - for PCs where the installer is blocked
+  DaBoDa_v…_arm64-v8a_debug.apk   for Android phones
