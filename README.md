@@ -8,7 +8,8 @@
 
 | 버전 (Version) | 날짜 (Date) | |
 |---|---|---|
-| [**0.1.9**](https://github.com/agizwon/DaBoDa-Rele/releases/tag/v0.1.9) | 2026-11-21 | **Latest** |
+| [**0.1.10**](https://github.com/agizwon/DaBoDa-Rele/releases/tag/v0.1.10) | 2026-11-21 | **Latest** |
+| [**0.1.9**](https://github.com/agizwon/DaBoDa-Rele/releases/tag/v0.1.9) | 2026-11-21 |  |
 | [**0.1.8**](https://github.com/agizwon/DaBoDa-Rele/releases/tag/v0.1.8) | 2026-11-21 |  |
 | [**0.1.7**](https://github.com/agizwon/DaBoDa-Rele/releases/tag/v0.1.7) | 2026-11-21 |  |
 
@@ -23,7 +24,7 @@
   - STEP·FreeCAD 문서는 PC 에 [FreeCAD](https://www.freecad.org/) 가 있어야 합니다.
   - DWG 는 무료 변환기 [ODA File Converter](https://www.opendesign.com/guestfiles/oda_file_converter) 가 있어야 합니다. DaBoDa 에는 들어 있지 않으니 따로 설치합니다.
   - KiCad 파일을 KiCad 와 똑같이 보려면 PC 에 [KiCad](https://www.kicad.org/download/) 가 있어야 합니다(0.1.8 부터 DaBoDa 에 들어 있지 않음). 없어도 간이 보기로 열립니다.
-- 버그 신고·개선 요청 : 프로그램의 도움말 메뉴 → [의견 보내기]로 적어 보내 주세요(0.1.8 부터, 보낸 글은 만든 사람만 봅니다). GitHub 계정이 있으면 이 저장소의 [Issues](../../issues/new/choose) 에 적어도 됩니다. 개인 정보나 회사 자료는 올리지 마세요 — 누구나 볼 수 있습니다.
+- 버그 신고·개선 요청 : 프로그램의 도움말 메뉴 → [의견 보내기·버그 신고]로 적어 보내 주세요(보낸 글은 만든 사람만 봅니다). GitHub 계정이 있으면 이 저장소의 [Issues](../../issues/new/choose) 에 적어도 됩니다. 개인 정보나 회사 자료는 올리지 마세요 — 누구나 볼 수 있습니다.
 - 버전 : `주.부.수` (예: 0.1.7)
 
 ---
@@ -40,5 +41,5 @@ DaBoDa is a multi-purpose viewer that opens images, photos, PDF, 3D, CAD and arc
   - STEP and FreeCAD documents need [FreeCAD](https://www.freecad.org/) installed on the PC.
   - DWG needs the free [ODA File Converter](https://www.opendesign.com/guestfiles/oda_file_converter). It is not included in DaBoDa, so install it separately.
   - The exact KiCad view needs [KiCad](https://www.kicad.org/download/) on the PC (not included in DaBoDa since 0.1.8). Without it, KiCad files still open in a simple view.
-- Bug reports and requests : use Help menu → [Send feedback] inside the program (from 0.1.8; only the author can read it). With a GitHub account you can also write in this repository's [Issues](../../issues/new/choose). Please do not post personal or company information — this page is public.
+- Bug reports and requests : use Help menu → [Send feedback / report a bug] inside the program (only the author can read it). With a GitHub account you can also write in this repository's [Issues](../../issues/new/choose). Please do not post personal or company information — this page is public.
 - Version : `major.minor.patch` (for example 0.1.7)
