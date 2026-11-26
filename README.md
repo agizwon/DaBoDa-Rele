@@ -8,7 +8,8 @@
 
 | 버전 (Version) | 날짜 (Date) | |
 |---|---|---|
-| [**0.1.23**](https://github.com/agizwon/DaBoDa-Rele/releases/tag/v0.1.23) | 2026-11-27 | **Latest** |
+| [**0.1.24**](https://github.com/agizwon/DaBoDa-Rele/releases/tag/v0.1.24) | 2026-11-27 | **Latest** |
+| [**0.1.23**](https://github.com/agizwon/DaBoDa-Rele/releases/tag/v0.1.23) | 2026-11-27 |  |
 | [**0.1.22**](https://github.com/agizwon/DaBoDa-Rele/releases/tag/v0.1.22) | 2026-11-27 |  |
 | [**0.1.16**](https://github.com/agizwon/DaBoDa-Rele/releases/tag/v0.1.16) | 2026-11-26 |  |
 | [**0.1.15**](https://github.com/agizwon/DaBoDa-Rele/releases/tag/v0.1.15) | 2026-11-23 |  |
