@@ -26,6 +26,7 @@
 
 - 사용 환경 : Windows 64비트, Android(ARM64)
 - 받는 파일 : 설치판(EXE, 권장) · 포터블 ZIP(설치 없이, USB 용) · 폴더 ZIP(인스톨러가 막힌 PC 용) · 안드로이드 APK
+- 받을 때 막히면 : 로그인은 필요 없습니다. 코드 서명이 없어 브라우저가 경고를 띄우면 다운로드 목록에서 **유지 → 그래도 계속**(Edge) 또는 **계속**(Chrome)을 누르고, 실행할 때 "Windows의 PC 보호"가 나오면 **추가 정보 → 실행**을 누릅니다. EXE 가 아예 받아지지 않으면 폴더 ZIP 이나 포터블 ZIP 을 받습니다.
 - 업데이트 : 0.1.7 부터 새 판이 나오면 프로그램 위쪽에 "업데이트" 버튼이 나타납니다. 바뀐 점을 먼저 보고 [지금 업데이트]·[나중에]·[이 버전 건너뛰기] 중에서 고를 수 있습니다.
 - 볼 수 있는 것 : 이미지·사진(HEIC 포함), PDF, 3D(STEP·FreeCAD 문서), 도면(DXF·DWG·KiCad), 압축 파일
   - STEP·FreeCAD 문서는 PC 에 [FreeCAD](https://www.freecad.org/) 가 있어야 합니다.
@@ -43,6 +44,7 @@ DaBoDa is a multi-purpose viewer that opens images, photos, PDF, 3D, CAD and arc
 - Download : click a version in the list at the top of this page.
 - Requirements : 64-bit Windows, Android (ARM64)
 - Files : installer (EXE, recommended) · portable ZIP (no install, for a USB drive) · folder ZIP (for PCs where the installer is blocked) · Android APK
+- If the download is blocked : no sign-in is needed. The program is not code-signed yet, so when the browser warns, choose **Keep → Keep anyway** (Edge) or **Keep** (Chrome) in the downloads list, and **More info → Run anyway** when "Windows protected your PC" appears. If the EXE cannot be downloaded at all, get the folder ZIP or the portable ZIP.
 - Updates : from version 0.1.7, an "Update" button appears at the top of the program when a new version is available. You can read what changed first, then choose [Update now], [Later] or [Skip this version].
 - What it opens : images and photos (including HEIC), PDF, 3D (STEP, FreeCAD documents), drawings (DXF, DWG, KiCad), archives
   - STEP and FreeCAD documents need [FreeCAD](https://www.freecad.org/) installed on the PC.
